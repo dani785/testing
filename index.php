@@ -1,3 +1,2 @@
-echo 'Al gener, tanca la porta i encén el braser';
-echo 'Aigua de gener tot l'any va bé';
-echo 'Les gelades de gener fan florir l'ametller';
+nomnre=input("introduzca el curso en el que esta matriculado")
+print("usted esta matriculado en el curso",nombre)
